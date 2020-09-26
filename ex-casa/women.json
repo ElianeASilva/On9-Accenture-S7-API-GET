@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nome": "Ada Lovelace",
+        "descricao": "Diva da programação, já descrevia as operações lógicas de uma máquina mais de um século antes de existir o computador como entendemos hoje. Filha do romântico Lord Byron e confinada a uma sociedade que impedia que mulheres estudassem em universidades, Ada apaixonou-se pela matemática -- e era brilhante. Trocou intensamente cartas com Charles Babbage, idealizador da Máquina Analítica, e publicou artigos (assinados somente com suas iniciais) que expandiam as fronteiras do processamento de informação.",
+        "leiaMais": "https://www.programaria.org/como-ada-lovelace-filha-de-lord-byron-se-tornou-primeira-programadora-mundo/"
+    },
+    {
+        "id": 2,
+        "nome": "Dorothy Johnson Vaughan",
+        "descricao": "Nascida no estado do Missouri, Dorothy Vaughan formou-se em Matemática e ingressou na NACA, agência que viria a se tornar a NASA, em 1943. Especializou-se em computação e seis anos depois chefiou um grupo composto somente por mulheres afro-americanas formadas em matemática. Dominava computação eletrônica, programação e o processo operacional da primeira máquina IBM usada pelo órgao governamental. Aposentou-se em 1971. Sua história é contada no filme 'Estrelas Além do Tempo'",
+        "leiaMais": "http://www.techladies.com.br/quem-foi-dorothy-vaughan/"
+    },
+    {
+        "id": 3,
+        "nome": "Joan Clarke",
+        "descricao": "Foi uma criptoanalista e numismata inglesa, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas. Também foi amiga, confidente e ex-noiva de Alan Turing.",
+        "leiaMais": "https://br.lifetimeplay.tv/noticias/joan-clarke-mulher-que-ajudou-decifrar-o-codigo-secreto-dos-nazistas"
+    },
+    {
+        "id": 4,
+        "nome": "Mary Winston Jackson",
+        "descricao": "Mary Winston Jackson nasceu nos EUA e formou-se no Hampton Institute em 1942, onde estudou matemática e física. Foi autora e co-autora de diversos relatórios de pesquisa e destacou-se na NASA, onde começou a trabalhar em 1951. Para poder continuar seus experimentos na Insitituição, teve que cursar enegenharia, sendo a primeira mulher negra engenheira da Nasa. Pesquisou principalmente a camada limite de ar em torno de aviões e fez experimentos com túneis de vento. Sua história é contada no filme 'Estrelas Além do Tempo'",
+        "leiaMais": "http://www.techladies.com.br/quem-foi-mary-jackson/"
+    },
+    {
+        "id": 5,
+        "nome": "Radia Perlman",
+        "descricao": "É uma cientista da computação estadunidense. Sua invenção mais conhecida é Spanning Tree Protocol, fundamental para a operação de bridges na internet. Por conta disso, a projetista de software e engenheira de redes - apesar de não gostar do título - é referenciada como “mãe da internet”. Ela também fez contribuições para outras áreas da computação e detém mais de 100 patentes.",
+        "leiaMais": "https://engenharia360.com/mulheres-ciencia-radia-perlman/"
+    },
+    {
+        "id": 6,
+        "nome": "Margaret Hamilton",
+        "descricao": "É uma cientista da computação, engenheira de sistemas e empresária estadunidense. Foi diretora da Divisão de Software no Laboratório de Instrumentação do MIT, que desenvolveu o programa de vôo usado no projeto Apollo 11, a primeira missão tripulada à Lua. O software de Hamilton impediu que o pouso na Lua fosse abortado. Margaret publicou mais de 130 artigos, atas e relatórios relacionados aos 60 projetos e seis programas importantes nos quais ela esteve envolvida.",
+        "leiaMais": "https://canaltech.com.br/internet/mulheres-historicas-margaret-hamilton-criou-o-programa-de-voo-da-apollo-11-78811/"
+    },
+    {
+        "id": 7,
+        "nome": "Katherine Coleman Goble Johnson",
+        "descricao": "Cientista formada em física e matemática, Katherine Johnson fez história na corrida espacial americana: calculou a trajetória para o Projeto Mercúrio (primeiro projeto tripulado da NASA) e para o voo da Apollo 11 (que levou o homem à Lua). Afro-americana, veio de família humilde e demonstrou desde cedo sua aptidão e precisão para os cálculos. Contribuiu imensamente para a agência em uma época em que os EUA ainda institucionalizavam a segregação racial. Recebeu a Medalha Presidencial da Liberdade em 2015, maior honra que o governo dos EUA concede a civis. Sua história é contada no filme ‘Estrelas Além do Tempo’.",
+        "leiaMais": "http://www.noticiario.com.br/homenagem.php?id=128"
+    },
+    {
+        "id": 8,
+        "nome": "Hedy Lamarr",
+        "descricao": "Foi uma atriz e inventora austríaca radicada nos Estados Unidos. A sua mais significativa contribuição tecnológica deu-se durante a Segunda Guerra Mundial, tendo sido a sua co-invenção, juntamente com o compositor George Antheil, de um sistema de comunicações para as Forças Armadas dos Estados Unidos que serviu de base para a atual telefonia celular.",
+        "leiaMais": "https://canaltech.com.br/internet/mulheres-historicas-hedy-lamarr-a-atriz-que-inventou-a-base-para-o-wi-fi-77347/"
+    },
+    {
+        "id": 9,
+        "nome": "Mary Kenneth Keller",
+        "descricao": "Natural de Cleveland, Ohio, Mary Keller foi a primeira mulher a ter um doutorado em ciência da computação nos Estados Unidos, em 1965. Graduou-se em matemática e fez mestrado em matemática e física nos anos 40. Seu doutorado pela Universidade de Wisconsin abordou a construção de algoritmos que faziam diferenciação analítica na expressão algébrica, escrito em CDC FORTRAN 63. Na época de sua graduação, a Universidade de Dartmouth só permitia homens, mas quebrou a regra para que ela pudesse trabalhar no centro de computação. Mais tarde, fundou o Departamento de Ciência da Computação na Clarke College, no estado de Iowa, onde lecionou por 20 anos.",
+        "leiaMais": "https://deploystore.com.br/quem-foi-mary-kenneth-keller-a-pioneira-da-programacao/"
+    },
+    {
+        "id": 10,
+        "nome": "Susan Kare",
+        "descricao": "Designer estadunidense que influenciou a iconografia da computação. Começou a trabalhar na Apple em 1982, criando a interface gráfica para o sistema operacional do primeiro Macintosh, o 128k lançado em 1984. Ela criou os ícones de salvar (no formato de disquete), lixeira, alerta, relógio e paint (balde de tinta) entre outros que são usados até hoje. Susan também projetou a primeira fonte com espaçamento proporcionalmente criado para o meio digital, com o objetivo de ser tão legível quanto as letras nas páginas de um livro. Atualmente Susan trabalha no Pinterest",
+        "leiaMais": "https://canaltech.com.br/internet/mulheres-historicas-susan-kare-revolucionou-o-desgin-grafico-nos-computadores-76629/"
+    }
+]
